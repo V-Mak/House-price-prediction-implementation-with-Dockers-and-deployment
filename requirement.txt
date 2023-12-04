@@ -5,3 +5,4 @@ sklearn
 Flask
 pickkle
 bz2file
+gunicorn
