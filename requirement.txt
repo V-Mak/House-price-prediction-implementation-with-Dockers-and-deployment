@@ -3,6 +3,5 @@ numpy
 matplotlib
 scikit-learn
 Flask
-pickle
 bz2file
 gunicorn
