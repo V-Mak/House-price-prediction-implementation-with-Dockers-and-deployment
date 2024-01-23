@@ -2,5 +2,5 @@ FROM python:3.9.5-slim-buster
 COPY . /app
 WORKDIR /app
 RUN apt update -y && apt install awscli -y
-RUN pip install -r requirement.txt
+RUN apt-get update && apt-get install ffmpeg libsm6 libxext6 unzip -y && pip install -r requirements.txt
 CMD ["python3", "app.py"]
