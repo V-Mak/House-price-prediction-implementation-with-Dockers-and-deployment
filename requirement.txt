@@ -3,6 +3,6 @@ numpy
 matplotlib
 scikit-learn
 Flask
-pickkle
+pickle
 bz2file
 gunicorn
