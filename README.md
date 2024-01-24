@@ -7,7 +7,7 @@
 4. [Git CLI](https://git-scm.com/book/en/v2)
 
 
-https://github.com/V-Mak/House-price-prediction-implementation-with-Dockers-and-deployment/assets/111484051/b83a47f7-ce30-49fd-92ce-50ecef0dd75e
+https://github.com/V-Mak/House-price-prediction-implementation-with-Dockers-and-deployment/assets/111484051/5cd1cce9-d989-4013-bcd5-2d7d7197df4c
 
 
 # Overview
